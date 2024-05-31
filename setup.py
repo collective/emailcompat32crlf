@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 setup(name='emailcompat32crlf',
-      version='1.0.0',
+      version='1.0.1.dev0',
       description='Patch stdlib email compat32 policy to default to CRLF line endings.',
       long_description=open('README.rst').read(),
       classifiers=[
