@@ -1,4 +1,4 @@
-import email
+import email.policy
 import logging
 
 
