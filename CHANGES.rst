@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.3 (unreleased)
+1.0.3 (2024-06-03)
 ------------------
 
 - Register z3c.autoinclude.plugin entry point for Plone.
