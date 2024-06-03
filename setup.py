@@ -10,7 +10,7 @@ for filename in ("README.rst", "CHANGES.rst"):
 long_description = "\n\n".join(contents)
 
 setup(name='emailcompat32crlf',
-      version='1.0.3',
+      version='1.0.4.dev0',
       description='Patch stdlib email compat32 policy to default to CRLF line endings.',
       long_description=long_description,
       classifiers=[
