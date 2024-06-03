@@ -23,4 +23,8 @@ setup(name='emailcompat32crlf',
       license='MIT',
       python_requires=">=3.8",
       packages=find_packages(),
-      zip_safe=False)
+      zip_safe=False,
+      entry_points="""
+      [z3c.autoinclude.plugin]
+      target = plone
+      """)

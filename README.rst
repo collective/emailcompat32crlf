@@ -35,3 +35,5 @@ of the other constructors which default to the ``compat32`` policy
 without carriage returns.
 
 Instead, you now can simply add ``emailcompat32crlf`` to your project dependencies and import it. Done.
+
+If you are using Plone: we register an autoinclude entry point, so you do not even need to import it.
